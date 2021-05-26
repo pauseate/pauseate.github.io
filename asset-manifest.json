@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.ad3de9ff.chunk.css",
-    "main.js": "/static/js/main.c236e389.chunk.js",
-    "main.js.map": "/static/js/main.c236e389.chunk.js.map",
+    "main.js": "/static/js/main.8e20f253.chunk.js",
+    "main.js.map": "/static/js/main.8e20f253.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.9d0b748e.js",
     "runtime-main.js.map": "/static/js/runtime-main.9d0b748e.js.map",
     "static/js/2.076c56d8.chunk.js": "/static/js/2.076c56d8.chunk.js",
@@ -62,6 +62,7 @@
     "static/media/hombros1.7383736c.svg": "/static/media/hombros1.7383736c.svg",
     "static/media/manos1.5a448167.svg": "/static/media/manos1.5a448167.svg",
     "static/media/manos2y3.1160581f.svg": "/static/media/manos2y3.1160581f.svg",
+    "static/media/manos3.190996e1.png": "/static/media/manos3.190996e1.png",
     "static/media/ojos1.8958badb.svg": "/static/media/ojos1.8958badb.svg",
     "static/media/ojos2.a2b026c5.svg": "/static/media/ojos2.a2b026c5.svg",
     "static/media/ojos3.a6a850a6.svg": "/static/media/ojos3.a6a850a6.svg",
@@ -76,6 +77,6 @@
     "static/js/runtime-main.9d0b748e.js",
     "static/js/2.076c56d8.chunk.js",
     "static/css/main.ad3de9ff.chunk.css",
-    "static/js/main.c236e389.chunk.js"
+    "static/js/main.8e20f253.chunk.js"
   ]
 }
